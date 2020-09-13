@@ -1,0 +1,20 @@
+/*
+   Author: Amanda Snyder
+   Last Revised: 9-13-20
+*/
+
+/* Table of contents
+––––––––––––––––––––––––––––––––––––––––––––––––––
+- lorem
+- ipsum
+*/
+
+.container {
+    background-color: rgba(250, 222, 255, 0.45);
+    padding: 4%;
+}
+.numButton {
+    background-color: rgba(250, 222, 255, 0.75);
+    text-align: center;
+    font-weight: 600;
+}
